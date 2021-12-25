@@ -6,7 +6,11 @@
     {
         "name": "Farhan",
         "colors": ["#9400D3", "#4B0082"]
-    }, 
+    },
+    {
+        "name": "Tahoma",
+        "colors": ["#3b3251", "#ff7885"]
+    },
     {
         "name": "Purple",
         "colors": ["#c84e89", "#F15F79"]
